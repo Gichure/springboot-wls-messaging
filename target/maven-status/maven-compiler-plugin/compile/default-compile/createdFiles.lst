@@ -1,0 +1,6 @@
+com\pgichure\poc\WlsJmsDemoApplication.class
+com\pgichure\poc\controllers\JmsController.class
+com\pgichure\poc\models\Message.class
+com\pgichure\poc\services\JmsQueueListener.class
+com\pgichure\poc\configs\JmsConfg.class
+com\pgichure\poc\models\Message$MessageBuilder.class

@@ -1,0 +1,5 @@
+spring:
+  jms:
+    jndi-name: jms/NTSAConnectionFactory
+    template:
+      default-destination: jms/NTSAQueue
